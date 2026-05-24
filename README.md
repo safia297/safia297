@@ -60,10 +60,11 @@
 
 ## 📫 Let's Connect!
 
-📧 **Email:** safiya199827@gmail.com 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safia-moallim-9050ab38b/)  
+📧 **Email:** safiya199820@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safia-moallim-9050ab38b/)  
 📍 **Location:** Ankara, Turkey  
 💼 **Status:** Open to work — junior & frontend dev roles!
+
 ---
 
 <div align="center">
