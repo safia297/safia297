@@ -11,7 +11,7 @@
 ---
 
 🎓 Fresh Software Engineering grad from **Atilim University**  
-⚡ Built an **AI-Powered Trip Planner** as my graduation project — yes, it actually works!  
+⚡ Graduated with a full-stack capstone project — from concept to deployment!  
 🌱 Currently leveling up: exploring **full-stack** projects & building my portfolio  
 🗣️ I speak Somali, Arabic, and English — code is my 4th language 😄  
 🔍 **Open to junior / frontend dev opportunities!**
@@ -33,14 +33,6 @@
 
 ## 🚀 Featured Projects
 
-### 🗺️ AI-Powered Trip Planner
-> Full-stack travel app with AI-generated itineraries, budget optimization & React Native frontend.  
-> Built with Scrum methodology, tested for performance, and powered by third-party travel APIs.
-
-**Tech:** React · React Native · REST APIs · AI Integration · Scrum
-
----
-
 ### 📚 Library Management System
 > Relational SQL database with ER modeling, table relationships, complex queries (JOIN, GROUP BY, Subqueries) and a fine management system.
 
@@ -52,8 +44,7 @@
 
 | What | Status |
 |------|--------|
-| 🗺️ Uploading AI Trip Planner to GitHub | 🔄 In progress |
-| 💼 Building more frontend mini-projects | 🔄 In progress |
+| 💼 Building frontend mini-projects | 🔄 In progress |
 | 📖 Deepening React & full-stack skills | 🔄 Ongoing |
 | 🌐 Setting up my portfolio website | 📅 Coming soon |
 
