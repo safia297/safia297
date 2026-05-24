@@ -48,13 +48,20 @@
 
 ---
 
+## 🌱 Currently Working On
+
+| What | Status |
+|------|--------|
+| 🗺️ Uploading AI Trip Planner to GitHub | 🔄 In progress |
+| 💼 Building more frontend mini-projects | 🔄 In progress |
+| 📖 Deepening React & full-stack skills | 🔄 Ongoing |
+| 🌐 Setting up my portfolio website | 📅 Coming soon |
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Safia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safia297&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safia297&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=safia297&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
